@@ -1,4 +1,4 @@
-# 📊 Java Log Processing System using Streams API
+# 📊 Log Processing System using Streams API
 
 ## 📌 Problem Statement
 
