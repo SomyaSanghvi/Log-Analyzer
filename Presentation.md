@@ -88,7 +88,7 @@ Definition:
 
 Example:
 
-P95 = 1150 ms
+P95 = 1200 ms
 
 Why P95?
 - Average hides tail latency
